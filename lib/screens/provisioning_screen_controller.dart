@@ -56,6 +56,10 @@ class ProvisioningController extends GetxController {
       isConnected.value = false;
       isAuthorized.value = false;
       _isDialogOpen = false;
+      cpuUsage.value = 0;
+      memoryUsage.value = 0;
+      diskUsage.value = 0;
+      batteryLevel.value = "0";
     });
 
     socket?.on('auth_success', (data) {
