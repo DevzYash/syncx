@@ -1,3 +1,6 @@
+
+![SYNC (Custom)](https://github.com/user-attachments/assets/012cad2e-8a48-49e5-9138-34f9cc1ebf80)
+
 # 🔄 SyncX - Client 📱
 
 ## 🌍 Overview
